@@ -1,6 +1,6 @@
 makeTraining
 ============
-Cсылки:
+Полезные ссылки:
 __________
 http://www.cs.duke.edu/~ola/courses/programming/libraries.html
 __________
